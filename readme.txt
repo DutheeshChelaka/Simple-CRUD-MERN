@@ -1,3 +1,7 @@
+Mern Stack Simple CRUD site😊👍
+
+Completed a simple CRUD based website using MERN❤️ 
+
 1.Terminal 1
 
 >cd client
